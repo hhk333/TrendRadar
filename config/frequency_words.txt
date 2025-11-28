@@ -21,31 +21,11 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
 京东
 刘强东
 
 字节
 bytedance
-张一鸣
 抖音热榜
 
 特斯拉
@@ -57,18 +37,10 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
-
-谷歌
-google
-gemini
-deepmind
-
 chatgpt
 openai
 sora
-
 claude
 Anthropic
 
@@ -84,7 +56,7 @@ ai
 全球局势
 地区冲突
 国家领导人动向
-
+特朗普
 
 国产
 中国
